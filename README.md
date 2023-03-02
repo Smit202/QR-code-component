@@ -25,8 +25,7 @@ This is a QR code component website.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/qr-code-component-website-using-html-and-css-3zf3bvmSXS)
 
 ## My process
 
